@@ -1,5 +1,4 @@
-Potential limitations and ethical considerations in using AI for health and wellness improvement
-==================================================================================================================================================
+
 
 While the use of artificial intelligence (AI) technology for improving health and wellness has many potential benefits, there are also potential limitations and ethical considerations that must be addressed.
 

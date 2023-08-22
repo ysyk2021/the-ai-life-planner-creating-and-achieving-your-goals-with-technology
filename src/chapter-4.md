@@ -1,5 +1,4 @@
-Chapter 3: Developing Positive Habits and Routines with Chatbots
-================================================================
+
 
 Use of Chatbots for Developing Positive Habits and Routines, Including Personalized Reminders and Accountability Tools
 ----------------------------------------------------------------------------------------------------------------------
