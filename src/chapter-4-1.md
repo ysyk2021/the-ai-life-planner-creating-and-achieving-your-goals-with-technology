@@ -1,5 +1,4 @@
 
-
 Chatbots can be a powerful tool for developing positive habits and routines by providing personalized reminders and accountability tools. In this chapter, we will explore the use of chatbots for developing positive habits and routines.
 
 Personalized Reminders
