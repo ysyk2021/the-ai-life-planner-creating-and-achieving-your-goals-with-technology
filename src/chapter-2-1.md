@@ -1,5 +1,4 @@
-Chapter 2: Explanation of AI Technology and Its Capabilities for Personal Goal-Setting and Achievement
-======================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the fascinating world of AI technology and how it empowers individuals to set and achieve their personal goals. You will gain a comprehensive understanding of the capabilities AI brings to the table, revolutionizing the way we plan and attain our life objectives.
 

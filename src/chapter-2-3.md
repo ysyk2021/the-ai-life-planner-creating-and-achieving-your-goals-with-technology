@@ -1,5 +1,4 @@
-Chapter 3: Advantages of AI for Improving Personal Goal Achievement
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the numerous advantages that Artificial Intelligence (AI) brings to the table when it comes to enhancing personal goal achievement. AI technology has revolutionized the way individuals plan, pursue, and ultimately attain their life objectives, offering a range of benefits that can significantly improve the likelihood of success.
 

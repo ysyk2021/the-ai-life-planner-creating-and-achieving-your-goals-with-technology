@@ -1,5 +1,4 @@
-Chapter 4: Personalized Recommendations for Building and Maintaining Healthy Habits
-===================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the exciting realm of personalized recommendations powered by AI technology. You'll discover how AI-driven systems can revolutionize the way we approach habit formation by tailoring strategies and guidance to your unique needs and preferences.
 

@@ -1,7 +1,6 @@
 Certainly! Here's a markdown-formatted chapter titled "Use of Chatbots for Developing Positive Habits and Routines, Including Personalized Reminders and Accountability Tools" for the book "The AI Life Planner: Creating and Achieving Your Goals with Technology":
 
-Chapter 12: Use of Chatbots for Developing Positive Habits and Routines, Including Personalized Reminders and Accountability Tools
-==================================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------

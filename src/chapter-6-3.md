@@ -1,7 +1,6 @@
 Certainly! Here's a markdown-formatted chapter titled "Potential Limitations and Ethical Considerations in Using AI for Health and Wellness Improvement" for the book "The AI Life Planner: Creating and Achieving Your Goals with Technology":
 
-Chapter 13: Potential Limitations and Ethical Considerations in Using AI for Health and Wellness Improvement
-============================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------

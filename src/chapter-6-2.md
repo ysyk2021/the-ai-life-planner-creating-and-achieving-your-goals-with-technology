@@ -1,7 +1,6 @@
 Certainly! Here's a markdown-formatted chapter titled "Personalized Recommendations for Health and Wellness Optimization" for the book "The AI Life Planner: Creating and Achieving Your Goals with Technology":
 
-Chapter 8: Personalized Recommendations for Health and Wellness Optimization
-============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------

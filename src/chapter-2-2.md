@@ -1,5 +1,4 @@
-Chapter 1: Types of AI: Natural Language Processing, Machine Learning, and Deep Learning
-========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will dive into the fundamental types of Artificial Intelligence (AI) that form the backbone of AI life planners, exploring Natural Language Processing (NLP), Machine Learning (ML), and Deep Learning (DL). Understanding these AI technologies is crucial to comprehend how AI life planners function and assist individuals in their goal-setting and achievement journey.
 

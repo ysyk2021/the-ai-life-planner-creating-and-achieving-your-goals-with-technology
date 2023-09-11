@@ -1,7 +1,6 @@
 Certainly! Here's a markdown-formatted chapter titled "Use of AI for Improving Health and Wellness, Including Personalized Nutrition and Fitness Plans" for the book "The AI Life Planner: Creating and Achieving Your Goals with Technology":
 
-Chapter 7: Use of AI for Improving Health and Wellness, Including Personalized Nutrition and Fitness Plans
-==========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------
